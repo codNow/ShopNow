@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">ShopNow</string>
+
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="choose_button">Choose Image</string>
+    <string name="upload_button">Upload</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_des">Product Description</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_image">Product Image</string>
+    <string name="no_reviews">23534 Reviews</string>
+    <string name="ram">RAM</string>
+    <string name="storage">Storage</string>
+    <string name="product_details">Details :-</string>
+    <string name="price_details">Price Details :-</string>
+    <string name="product_category">Product Category</string>
+    <string name="product_colour">Colour</string>
+    <string name="login_menu">Login</string>
+    <string name="smartphone">Phone</string>
+    <string name="laptop">Laptop</string>
+    <string name="desktop">Desktop</string>
+    <string name="fashion">Fashions</string>
+    <string name="smartwatches">SmartWatches</string>
+    <string name="card">Card</string>
+    <string name="offers">Offer</string>
+    <string name="refurbished">Refurbished</string>
+    <string name="security">Security</string>
+    <string name="home_title">Home</string>
+    <string name="order_title">Order</string>
+    <string name="cart_title">Cart</string>
+    <string name="profile_title">Profile</string>
+    <string name="search_title">Search</string>
+    <string name="search">Search</string>
+    <string name="upload_slider">Upload Slider</string>
+    <string name="upload_product">Upload Product</string>
+    <string name="choose_variant">Choose Variant</string>
+    <string name="product_detail">Product Details</string>
+    <string name="replacement">7 Days Replacement</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="warranty">1 Year Warranty</string>
+    <string name="cash_on_delivery">Cash On Delivery</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="image_no_preview">Preview Text</string>
+    <string name="upload_text">Upload Your Product</string>
+    <string name="device_gb">GB</string>
+    <string name="device_colour">Colour:</string>
+
+    <string name="login_experience">Login for better experience !!</string>
+    <string name="login_advise_one">Enter you phone number to continue</string>
+    <string name="login_advise_two">Enter OTP sent to your number</string>
+    <string name="privacy_policy">By continuing you agree to Terms and Conditions of private policy</string>
+    <string name="continue_button">Continue</string>
+    <string name="register_advise">Please Register for better experience</string>
+    <string name="register_text_advise">Plase enter your username</string>
+    <string name="register_text">REGISTRATION</string>
+    <string name="register_button">Register</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="street_name">Street Name</string>
+    <string name="address_name">Road, Area etc</string>
+    <string name="city_name">City Name</string>
+    <string name="state_name">State Name</string>
+    <string name="country_name">Country Name</string>
+    <string name="pin_code">Pin Number</string>
+    <string name="prime_text">Unlimited FREE fast delivery, videos, music, gaming and more</string>
+    <string name="smartPhone">Smartphone</string>
+    <string name="search_product">Search Products ..</string>
+    <string name="rupees">₹</string>
+    <string name="shipping_address">Shipping Address</string>
+    <string name="edit_address">Edit/Change</string>
+    <string name="username_sasha">Sasha Samte</string>
+    <string name="order_details">Order Details</string>
+    <string name="no_of_items">No. of Items</string>
+    <string name="price_items">Price (Items)</string>
+    <string name="total_prices">999999</string>
+    <string name="status_date">May 2022</string>
+    <string name="search_products">Search Products</string>
+
+
+    <string-array name="select_qty">Qty
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="select_ram">RAM
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="select_storage">Storage
+        <item>32</item>
+        <item>64</item>
+        <item>125</item>
+        <item>512</item>
+    </string-array>
+    <string-array name="select_category">Category
+        <item>Phone</item>
+        <item>Laptop</item>
+        <item>Desktop</item>
+        <item>SmartWatches</item>
+        <item>Fashion</item>
+        <item>Refurbished</item>
+    </string-array>
+    <string-array name="select_state">State
+        <item>Delhi</item>
+        <item>Maharastra</item>
+        <item>Mizoram</item>
+        <item>Manipur</item>
+    </string-array>
+    <string-array name="country_name">Country
+        <item>India</item>
+    </string-array>
+</resources>

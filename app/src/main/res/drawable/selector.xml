@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_selected="true"
+        android:drawable="@color/sky_blue"
+        android:icon="@color/primary"
+        android:color="@color/sky_blue"/>
+    <item
+        android:state_selected="false"
+        android:drawable="@color/light_blue"
+        android:color="@color/light_blue"/>
+</selector>

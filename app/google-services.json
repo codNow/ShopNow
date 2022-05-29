@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697891893421",
+    "firebase_url": "https://shopnow-e0a0b-default-rtdb.firebaseio.com",
+    "project_id": "shopnow-e0a0b",
+    "storage_bucket": "shopnow-e0a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697891893421:android:9983c9894e40689e385624",
+        "android_client_info": {
+          "package_name": "com.sasha.shopnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697891893421-ulqoauorldkkccmmgh25mh74c315619e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sasha.shopnow",
+            "certificate_hash": "c9b05a0d3fcf9917f91e83b1f6787c20e61f800c"
+          }
+        },
+        {
+          "client_id": "697891893421-m3ebve4rnot3q6iqikv1co3qim5ht0ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJx7bDDuZnqc1OUAayGldwCbbOzVQ7ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697891893421-m3ebve4rnot3q6iqikv1co3qim5ht0ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
