@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.158" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/drawable/ic_baseline_checklist_24.xml" value="0.158" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.158" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/drawable/ic_baseline_radio_button_checked_24.xml" value="0.158" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/drawable/ic_baseline_radio_button_unchecked_24.xml" value="0.158" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/layout/activity_splash_screen.xml" value="0.2859375" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/layout/home_content.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/layout/home_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/layout/navigation_layout.xml" value="0.22" />
         <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/menu/bottom_navigation_view.xml" value="0.12916666666666668" />
         <entry key="..\:/Users/RyanSamte/AndroidStudioProjects/ShopNow/app/src/main/res/menu/menu_layout.xml" value="0.12916666666666668" />
       </map>

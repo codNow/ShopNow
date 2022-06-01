@@ -79,6 +79,7 @@
     <string name="total_prices">999999</string>
     <string name="status_date">May 2022</string>
     <string name="search_products">Search Products</string>
+    <string name="todo">TODO</string>
 
 
     <string-array name="select_qty">Qty
