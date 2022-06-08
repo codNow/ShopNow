@@ -25,24 +25,20 @@
         android:theme="@style/Theme.ShopNow"
         tools:replace="android:theme">
         <activity
+            android:name=".uploads.UploadSliderImagesActivity"
+            android:exported="false" />
+        <activity
             android:name=".start.SplashScreenActivity"
             android:exported="true">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-
-
-        </activity>
-
+            android:exported="true" />
         <activity
             android:name="com.razorpay.CheckoutActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"

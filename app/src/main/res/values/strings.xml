@@ -80,6 +80,11 @@
     <string name="status_date">May 2022</string>
     <string name="search_products">Search Products</string>
     <string name="todo">TODO</string>
+    <string name="upload_slider_images">Upload Slider Images</string>
+    <string name="choose_images">Choose Images</string>
+    <string name="upload_images">Upload Images</string>
+    <string name="images">Images</string>
+    <string name="upload_images_folder">upload_images</string>
 
 
     <string-array name="select_qty">Qty
